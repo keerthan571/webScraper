@@ -24,7 +24,7 @@ This project uses Maven for dependency management and JSoup for HTML parsing.
 - Console logging for scraping progress
 - Timestamp-based output file generation
 
----## How to Run
+## How to Run
 
 1. Navigate to project root (where `pom.xml` exists)
 
