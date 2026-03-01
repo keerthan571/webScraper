@@ -45,5 +45,4 @@ This project uses Maven for dependency management and JSoup for HTML parsing.
 
 ## 👨‍💻 Author
 
-Keerthan Poojari4. 
-## Project Structure3. Run the application:
+Keerthan Poojari.
